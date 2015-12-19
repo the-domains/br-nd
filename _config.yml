@@ -1,7 +1,7 @@
 name: BR-ND
 favicon: null
-layout_spectrum: 0.14982404001057148
-typography_spectrum: 0.6845054135192186
+layout_spectrum: 0.51877
+typography_spectrum: 0.2371
 title: Emotive Transformers
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.8009676244109869
-  lightness: 0.21251549944281578
-  saturation: 0.4031338021159172
-  rhythmicContrast: 0.30662238085642457
+    - '#550000'
+    - '#cc0066'
+    - '#ff0055'
+    - '#000000'
+    - '#330000'
+  brandStrength: 0.6875
+  lightness: 0.25
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
